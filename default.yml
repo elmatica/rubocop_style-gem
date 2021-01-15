@@ -1,0 +1,73 @@
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+
+Style/TrailingCommaInArguments:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/TrailingCommaInArrayLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/Lambda:
+  EnforcedStyle: literal
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/ConditionalAssignment:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/RegexpLiteral:
+  Enabled: false
+
+Style/WordArray:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Layout/EmptyLineAfterGuardClause:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 100
+
+Layout/SpaceInsideBlockBraces:
+  EnforcedStyleForEmptyBraces: space
+
+Lint/EmptyBlock:
+  Enabled: false
+
+Lint/MissingSuper:
+  Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Bundler/OrderedGems:
+  Enabled: false
+
+AllCops:
+  NewCops: enable
+  Exclude:
+    - "bin/*"
+    - "**/Rakefile"
+    - "**/spec/**/*"
+    - "**/db/schema.rb"
