@@ -26,6 +26,6 @@ Create a `.rubocop.yml` with the following directives:
 
 ```ruby
 inherit_gem:
-    elmatica_style:
+    style_elmatica:
         - default.yml
 ```
