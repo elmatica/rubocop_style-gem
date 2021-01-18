@@ -8,7 +8,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :test, :development do
-    gem 'style_elmatica'
+    gem 'style_elmatica-gem', github: 'elmatica/rubocop_style-gem'
 end
 ```
 
