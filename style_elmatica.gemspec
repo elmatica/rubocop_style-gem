@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["yeats.april@gmail.com"]
 
   spec.summary       = 'Elmatica style guides and shared configs'
-  spec.homepage      = 'https://github.com/elmatica/rubocop_style_elmatica'
+  spec.homepage      = 'https://github.com/elmatica/rubocop_style-gem'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
