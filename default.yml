@@ -256,6 +256,12 @@ Layout/TrailingEmptyLines:
 Layout/TrailingWhitespace:
   Enabled: false
 
+Layout/ArgumentAlignment:
+  Enabled: false
+
+Layout/FirstArgumentIndentation:
+  Enabled: false
+
 Style/Semicolon:
   Enabled: false
 
