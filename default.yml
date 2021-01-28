@@ -1,4 +1,5 @@
 AllCops:
+  SuggestExtensions: false
   NewCops: enable
   Exclude:
     - "bin/*"
@@ -254,6 +255,12 @@ Layout/TrailingEmptyLines:
   Enabled: false
 
 Layout/TrailingWhitespace:
+  Enabled: false
+
+Layout/ArgumentAlignment:
+  Enabled: false
+
+Layout/FirstArgumentIndentation:
   Enabled: false
 
 Style/Semicolon:
