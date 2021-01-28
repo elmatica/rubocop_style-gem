@@ -29,7 +29,3 @@ inherit_gem:
     style_elmatica:
         - default.yml
 ```
-
-Then run `rubocop` as:
-
-    $ bundle exec rubocop
