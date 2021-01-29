@@ -45,6 +45,12 @@ Layout/EmptyLineAfterGuardClause:
 Layout/LineLength:
   Max: 100
 
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: false
+
+Lint/UnusedMethodArgument:
+  Severity: warning
+
 Lint/EmptyBlock:
   Enabled: false
 
