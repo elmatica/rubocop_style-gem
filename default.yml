@@ -49,6 +49,7 @@ Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: false
 
 Lint/UnusedMethodArgument:
+  AutoCorrect: false
   Severity: warning
 
 Lint/EmptyBlock:
