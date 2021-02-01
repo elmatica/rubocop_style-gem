@@ -39,6 +39,9 @@ Style/SymbolArray:
 Style/NumericLiterals:
   Enabled: false
 
+Style/TrailingUnderscoreVariable:
+  Enabled: false
+
 Layout/EmptyLineAfterGuardClause:
   Enabled: false
 
