@@ -273,6 +273,9 @@ Layout/ArgumentAlignment:
 Layout/FirstArgumentIndentation:
   Enabled: false
 
+Layout/BeginEndAlignment:
+  Enabled: false
+
 Style/Semicolon:
   Enabled: false
 
