@@ -72,9 +72,6 @@ Bundler/OrderedGems:
 
 # Cops that conflict with rufo
 
-Layout/LineLength:
-  Enabled: false
-
 Layout/AccessModifierIndentation:
   Enabled: false
 
