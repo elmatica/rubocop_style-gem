@@ -45,9 +45,6 @@ Style/TrailingUnderscoreVariable:
 Layout/EmptyLineAfterGuardClause:
   Enabled: false
 
-Layout/LineLength:
-  Max: 100
-
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: false
 
@@ -74,6 +71,9 @@ Bundler/OrderedGems:
   Enabled: false
 
 # Cops that conflict with rufo
+
+Layout/LineLength:
+  Enabled: false
 
 Layout/AccessModifierIndentation:
   Enabled: false
