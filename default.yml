@@ -46,8 +46,7 @@ Layout/EmptyLineAfterGuardClause:
   Enabled: false
 
 Layout/LineLength:
-  AutoCorrect: false
-  Max: 100
+  Max: 120 # default value
 
 Layout/EmptyLinesAroundAttributeAccessor:
   Enabled: false
